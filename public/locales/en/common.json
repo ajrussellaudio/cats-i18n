@@ -1,0 +1,9 @@
+{
+  "title": "A cat",
+  "body": "A cute little cat.",
+  "language": {
+    "en": "English",
+    "fr": "French",
+    "ar": "Arabic"
+  }
+}

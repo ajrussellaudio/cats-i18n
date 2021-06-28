@@ -1,0 +1,14 @@
+.content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.link {
+  color: maroon;
+  text-decoration: underline;
+}
+
+.link:hover {
+  color: red;
+  text-decoration: none;
+}
